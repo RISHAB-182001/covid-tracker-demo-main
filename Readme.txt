@@ -1,0 +1,2 @@
+We made a COVID Tracker Website with an API for a Hackathon. This would update data in realtime, as to the number of cases occuring in the world and update every 24 hours.
+Since, about 100-150 other teams made the COVID tracker for this Hackathon, we underwent a separate evaluation from a company called Lumos Labs, which shortlisted our team in the Top 10 best COVID Trackers made.

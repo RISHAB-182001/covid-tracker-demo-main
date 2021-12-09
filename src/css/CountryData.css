@@ -1,0 +1,28 @@
+.country-data-wrapper {
+    margin-top: 20px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.country-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.country-card {
+    padding: 12px;
+    margin: 12px 12px 0 -4px;
+    box-shadow: 2px 2px 4px #999;
+    width: 33%;
+}
+
+.cc {
+    color: skyblue;
+}
+
+.rc {
+    color: green;
+}
+
+.dc {
+    color: red;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+.intro-card {
+    font-family: 'Cabin', sans-serif;
+    box-shadow: 0px 6px 6px #888;
+    display: block;
+    width: 40%;
+    padding-left: 30px;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    padding-top: 10px;
+    margin-top: 16px;
+    border-radius: 10px;
+}
+
+.global-data {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.global-data div {
+    box-shadow: 3px 3px 3px #999;
+    padding: 8px;
+    width: 30%;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.global-cases {
+    color: lightseagreen;
+}
+
+.global-recovered {
+    color: green;
+}
+
+.global-deaths {
+    color: red;
+}

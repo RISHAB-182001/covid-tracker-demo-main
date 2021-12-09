@@ -1,0 +1,24 @@
+.data-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+
+.data-card {
+    cursor: pointer;
+    font-family: 'Cabin', sans-serif;
+    margin: 12px 12px 12px 0;
+    width: 20%;
+    height: 120px;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 2px 3px 3px #999;
+}
+
+.display-more-info {
+    margin-top: 12px;
+    background: lightsteelblue;
+    padding: 6px;
+    border-radius: 30px;
+}
